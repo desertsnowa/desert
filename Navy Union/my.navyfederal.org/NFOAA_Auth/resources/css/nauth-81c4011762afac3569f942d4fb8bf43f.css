@@ -1,0 +1,278 @@
+.vrtcl-spc-10pxl {
+	margin-top: 10px;
+}
+
+.vrtcl-spc-20pxl {
+	margin-top: 20px;
+}
+
+.vrtcl-spc-25pxl{
+	margin-top:25px;
+}
+
+.vrtcl-spc-50pxl {
+	margin-top: 50px;
+}
+
+.vrtcl-spc-30pxl{
+	margin-top:30px;
+}
+
+.vrtcl-topbottom-30pxl{
+	margin-top:30px;
+	margin-bottom:30px;
+}
+
+.Topmargin5pxl{
+	margin-top:5px;
+}
+
+/* enrollment page 3 styles*/
+.username-content-disp {
+  margin-bottom: 5px; }
+
+.username-content-disp > p {
+  color: black;
+  background-color: rgba(233, 237, 241, 0.3);
+  font-size: 12px;
+  line-height: 1.5;
+  margin-bottom: 0;
+  font-weight: bold;
+  padding: 10px;
+  }
+
+ .disable-text{
+ 	font-family:Arial;
+ 	font-weight:Regular;
+ 	font-size:13px;
+ 	color:#676868;
+ 	padding-top:20px;
+ 	padding-bottom:0px;
+ }
+
+
+ .username-content-disp > ul {
+  color: #8e9093;
+  background-color: rgba(233, 237, 241, 0.3);
+  font-size: 12px;
+  line-height:1.5;
+  margin-bottom: 0;
+  padding-top: 0px;
+  padding-left: 30px;
+  padding-bottom: 5px;
+  }
+
+
+ .vrtcl-ht-100pxl {
+	height: 100px;
+}
+
+ .vrtcl-ht-20pxl {
+	height: 20px;
+}
+
+ .vrtcl-ht-50pxl {
+	height: 50px;
+}
+
+
+  .email-content-disp {
+  margin-bottom: 5px; }
+
+.email-content-disp > p {
+  color: black;
+  background-color: #f4f6f8;
+  line-height: 1.5;
+  font-weight: bold;
+  margin-bottom: 0;
+  padding: 10px;
+  }
+
+  .banner-content-disp {
+  margin-bottom: 5px;
+  }
+
+.banner-content-disp > p {
+  color: black;
+  background-color: #f4f6f8;
+  line-height: 1.5;
+  margin-bottom: 0;  }
+
+/*.non-login-box {
+	margin:-20px;
+ }*/
+
+ .panel-wdth{
+ 	width:100% !important;
+ }
+
+ .panel-left-wdth{
+ 	width:482px !important;
+ }
+
+ .non-login-bckgrnd{
+ 	background-color:white;
+ 	margin:0;
+ }
+
+ .panel-row-wdth{
+ 	width:99% !important;
+ }
+
+ .panel-row-pd{
+ 	padding-right: 0px !important;
+ }
+
+ .login-panel.panel-wdth{
+ 	padding:0;
+ }
+
+ .disclaimer{
+ 	padding: 15px 15px 0;
+ }
+
+ #Login .form-group {
+  margin-bottom: 15px !important;
+ }
+
+ .dsclsr-alert-bar{
+    background-color: #fcebdb;
+    padding: 15px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.disclosure-content {
+  font-family:Arial;
+  font-size:13px;
+  font-weight:normal;
+  width:100%;
+  height:400px;
+  border:1px solid #d2d3d6;
+  overflow-y:scroll;
+  padding-left:20px;
+  padding-right:6px;
+  text-align:justify;
+}
+
+.confirm-bar
+{
+	font-size:13px;
+	font-weight:bold;
+	background-color:#6eb400;
+	color:#FFF;
+	max-width:964px;
+	padding-left:15px;
+	padding-top:15px;
+	padding-bottom:15px;
+	text-align:justify;
+	/* margin-bottom:30px; */
+}
+
+.comment-text{
+	font-family:Arial;
+	font-weight:normal;
+	font-style:Italic;
+	font-size:13px;
+	color:#676868;
+	line-height:19px;
+	padding:0;
+}
+
+.comment-textnormal{
+	font-family:Arial;
+	font-weight:normal;
+	font-size:13px;
+	color:#676868;
+	line-height:19px;
+	padding:0;
+	margin-top:35px;
+}
+
+.confirm-text{
+	font-family:Arial;
+	font-size:13px;
+	font-weight:bold;
+	color:#ffffff;
+}
+.identity-text{
+	font-family:Arial;
+	font-size:14px;
+	font-weight:Regular;
+	color:#1C1D1E;
+	margin-bottom:25px;
+	margin-left:-10px;
+}
+
+.identity-textbold{
+	font-family:Arial;
+	font-size:14px;
+	font-weight:bold;
+	color:#1C1D1E;
+	margin-bottom:15px;
+	margin-left:-10px;
+}
+.panel-identitybody{
+	padding-left:20px;
+}
+.input-phoneno{
+	margin-left:-10px;
+}
+.style-list{
+	color:#ff9f3b;
+	padding-top:10px;
+}
+.body-text{
+	font-family:arial;
+	font-size:14px;
+	font-weight:normal;
+	color:#1c1d1e;
+}
+.marketing-list li span {
+    line-height: 20px;
+}
+.padleft46{
+	padding-left:46px;
+}
+#circle {
+  position: relative;
+  background-color: #0057A2;
+  padding-left:20px;
+  width: 150px;
+  height: 150px;
+  border-radius: 200px;
+  margin-bottom:30px;
+}
+
+#text {
+  position: absolute;
+  font-family:Source Sans Pro;
+  font-weight:Semibold;
+  font-size:84px;
+  top: 50%;
+  left: 50%;
+  transform:translate(-50%,-50%);
+  color: #fff;
+}
+
+
+.confirm-bar-hide {
+	display: none;
+}
+
+.oobErrDiv-hide{
+	display: none;
+}
+
+.vertical-line{
+	border:1px solid #d2d3d6;
+}
+
+.borderright{
+	border-right:1px solid #d2d3d6;
+	height:700px;
+}
+
+.marleft20{
+	margin-left:20px;
+}
